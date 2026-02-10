@@ -10,7 +10,7 @@
 ## Overview
 This project documents the setup and configuration of a UniFi Network Controller to re-adopt and centrally manage UniFi access points at a remote Fedoz client's off-site location. The goal was to restore centralized control, improve monitoring, and enable secure remote management for ongoing operations and troubleshooting.
 
-_Screenshots:_ see `assets/dashboard.png` and `assets/topology.png`.
+_Screenshots:_ see `assets/dashboard.jpg` and `assets/topology.jpg`.
 
 ---
 
@@ -98,7 +98,7 @@ An off-field site had UniFi devices that were no longer managed by a central con
 ## Files & Assets
 - `assets/dashboard.png` — Controller dashboard screenshot  
 - `assets/topology.png` — Network topology screenshot  
-- `configuration-files/network-config-backup.json` — (optional) exported controller/site backup
+- `configuration-files/network-config-backup.json` — (to be reuploaded) exported controller/site backup
 
 ---
 
@@ -113,7 +113,7 @@ An off-field site had UniFi devices that were no longer managed by a central con
 
 ## Author
 **Chisom Onyeka** — Acting ICT Coordinator | Data & Systems  
-LinkedIn: [your-linkedin] • GitHub: [your-github]
+LinkedIn: [https://linkedin.com/in/chisom-onyeka] • 
 
 ---
 
